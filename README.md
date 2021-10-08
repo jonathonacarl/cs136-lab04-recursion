@@ -21,4 +21,4 @@ We will write a recursive method that prints the binary representation for a giv
 ## Extending Subset Sum
 Given a set of integers and a target number, your goal is to find a subset of those numbers that sum to the target number. For example, given the set {3, 7, 1, 8, -3} and the target sum 4, the subset {3, 1} sums to 4. On the other hand, if the target sum were 2, we have a problem: there is no subset that sums to 2.
 
-We will write a recursive method that returns the number of subsets that sum to our target number
+We will write a recursive method that returns the number of subsets that sum to our target number.
